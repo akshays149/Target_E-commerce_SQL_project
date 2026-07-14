@@ -35,7 +35,8 @@ The data for this project is being attached in this repositry
 
 ## Schema
 
-![alt text](Gemini_Generated_Image_tismlktismlktism-1.png)
+<img width="1093" height="640" alt="Gemini_Generated_Image_tismlktismlktism-1" src="https://github.com/user-attachments/assets/f3217f52-ebdc-4242-ab48-4be11007bb27" />
+
 
 ```sql
 CREATE TABLE dbo.customers (
